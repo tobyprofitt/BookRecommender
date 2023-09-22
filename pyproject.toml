@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "bookrecommender"
+version = "0.1.0"
+description = "exploratory data analysis"
+authors = ["Your Name <you@example.com>"]
+license = ""
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+pandas = "1.3.5"
+dask = "^2023.9.2"
+numpy = ">=1.21.0"
+seaborn = "0.11.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

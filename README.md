@@ -52,14 +52,9 @@ Users input/select a book, the front-end sends a request to the back-end, and di
 
 Steps to Execute:
 
-Data Collection & Preprocessing: Start with the Goodreads or Book-Crossings dataset. Preprocess the data to handle missing values and derive meaningful features.
-
-ML Model Development: Train the recommendation system. Evaluate its performance, refine, and once satisfied, serialize the model for deployment.
-
-Back-end Development: Set up the back-end framework. Create the database schema, develop the required endpoints, and integrate the ML model.
-
-Front-end Development: Create a simple web interface where users can input or select a book and see the recommended books. Ensure it communicates effectively with the back-end.
-
-Deployment & Monitoring: Deploy the whole solution (front-end, back-end, and ML model) on a server/cloud. Monitor for any issues and gather user feedback for future refinements.
-
-This project will allow you to cover several areas, including data preprocessing, machine learning modeling, API development, database handling, front-end development, and deployment. Good luck
+1. Data Collection & Preprocessing: Start with the Goodreads or Book-Crossings dataset. Preprocess the data to handle missing values and derive meaningful features.
+2. ML Model Development: Train the recommendation system. Evaluate its performance, refine, and once satisfied, serialize the model for deployment.
+3. Back-end Development: Set up the back-end framework. Create the database schema, develop the required endpoints, and integrate the ML model.
+4. Front-end Development: Create a simple web interface where users can input or select a book and see the recommended books. Ensure it communicates effectively with the back-end.
+5. Deployment & Monitoring: Deploy the whole solution (front-end, back-end, and ML model) on a server/cloud. Monitor for any issues and gather user feedback for future refinements.
+6. This project will allow you to cover several areas, including data preprocessing, machine learning modeling, API development, database handling, front-end development, and deployment. Good luck
